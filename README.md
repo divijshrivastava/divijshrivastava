@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Chrome plugins.
 - 📫 How to reach me: https://twitter.com/divijish
 - My Website: https://divij.tech
-- If you have a fun project, I would love to collab ;-)
+- If you have a fun project, I would love to collab :wink:
 
 <!--
 **divijish/divijish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

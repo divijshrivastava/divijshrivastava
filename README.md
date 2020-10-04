@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Omnifood website.
 - 🌱 I’m currently learning Chrome plugins.
 - 📫 How to reach me: https://twitter.com/divijish
-- My Website: https://divij.tech (This is under construction)
+- My Website: https://divij.tech
 
 <!--
 **divijish/divijish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on My Portfolio website.
+- 🔭 I’m currently working on Web development.
 - 🌱 I’m currently learning Chrome plugins.
 - 📫 How to reach me: https://twitter.com/divijish
 - My Website: https://divij.tech

@@ -4,6 +4,7 @@
 - 📫 How to reach me: https://twitter.com/divijish
 - My Website: https://divij.tech
 - If you have a fun project, I would love to collab 😄:
+- <img src="https://www.codetriage.com/hotswapprojects/hotswapagent/badges/users.svg">
 
 <!--
 **divijish/divijish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

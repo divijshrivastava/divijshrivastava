@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Hi there 👋
 - 🔭 I’m currently working on Web development.
 - 🌱 I’m currently learning Chrome plugins.
